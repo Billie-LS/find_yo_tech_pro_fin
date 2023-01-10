@@ -96,7 +96,7 @@ candidate_database = {
 people = ['Lane', 'Ash', 'Jo', 'Kendall']
 
 
-def get_people(w3):
+def get_people():  # do NOT put w3 in here
     """Display the database of Fintech Finders candidate information."""
     db_list = list(candidate_database.values())
 
