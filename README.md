@@ -8,10 +8,12 @@ Objective - to simulate fintech engineer working at a a major global bank.
 
 Scenario - Fintech Finder’s lead developer, tasked with integrating the Ethereum blockchain network into an application to enable customers to pay fintech professionals whom they hire with cryptocurrency. 
 ![blockchain_pay](images/blockchain_pay.png)
+
 Product - 
 
 
-![ganache0](images/account_ind0.png)
+![ganache](images/account_ind.png)
+
 ![app](images/multipleblocks.png)
 ![app](images/validchain.png)
 ___
