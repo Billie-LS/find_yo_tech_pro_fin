@@ -1,4 +1,4 @@
-![blockchain](images/blockchain.png)
+![blockchain](Images/blockchain.png)
 # **Columbia University Engineering, New York FinTech Bootcamp** 
 # **August 2022 Cohort**
 # **Module 19, Challenge - building a 'Fintech Finder' application to identify fintech professionals from a candidate list, hire them, and pay them**
@@ -7,12 +7,12 @@
 Objective - to simulate fintech engineer working at a a major global bank. 
 
 Scenario - Fintech Finder’s lead developer, tasked with integrating the Ethereum blockchain network into an application to enable customers to pay fintech professionals whom they hire with cryptocurrency. 
-![blockchain_pay](images/blockchain_pay.png)
+![blockchain_pay](Images/blockchain_pay.png)
 
 Product - 
 
 
-![ganache](images/account_ind.png)
+![ganache](Images/account_ind.png)
 
 ![app](images/multipleblocks.png)
 ![app](images/validchain.png)
