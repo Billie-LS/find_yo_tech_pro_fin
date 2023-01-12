@@ -147,6 +147,7 @@ if st.sidebar.button("Send Transaction"):
 
     # Celebrate your successful payment
     st.balloons()
+    st.sidebar.success('This is a valid transaction!', icon="✅")
 
 
 # The function that starts the Streamlit application
