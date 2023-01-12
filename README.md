@@ -1,21 +1,17 @@
 ![blockchain](images/blockchain.png)
 # **Columbia University Engineering, New York FinTech Bootcamp** 
 # **August 2022 Cohort**
-# **Module 18, Challenge - building a blockchain-based ledger system, complete with a user-friendly web interface**
+# **Module 19, Challenge - building a 'Fintech Finder' application to identify fintech professionals from a candidate list, hire them, and pay them**
 
 
 Objective - to simulate fintech engineer working at a a major global bank. 
 
-Scenario - As the lead developer of the decentralized finance team, build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger. 
-![decentralizedledger](images/decentledger.png)
+Scenario - Fintech Finder’s lead developer, tasked with integrating the Ethereum blockchain network into an application to enable customers to pay fintech professionals whom they hire with cryptocurrency. 
+![blockchain_pay](images/blockchain_pay.png)
 Product - 
 
->* Create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
->* Change the existing Block data class by replacing the generic data attribute with a record attribute that’s of type Record. 
->* Create additional user input areas in the Streamlit application. These input areas should collect the relevant information for each financial record that you’ll store in the PyChain ledger. 
->* Create additional user input areas in the Streamlit application. These input areas should collect the relevant information for each financial record that you’ll store in the PyChain ledger.
 
-![app](images/app.png)
+![ganache0](images/account_ind0.png)
 ![app](images/multipleblocks.png)
 ![app](images/validchain.png)
 ___
@@ -83,16 +79,16 @@ git version 2.37.2
 In the terminal, navigate to directory where you want to install this application from the repository and enter the following command
 
 ```python
-git clone git@github.com:Billie-LS/de_cent_fin_chain_my_block.git
+git clone git@github.com:Billie-LS/find_yo_tech_pro_fin.git
 ```
 
 ---
 ## **Usage**
 
-In the terminal, navigate to the project folder where you've installed the application; run the streamlit application by using `streamlit run pychain.py`:
+In the terminal, navigate to the project folder where you've installed the application; run the streamlit application by using `streamlit run fintech_finder.py`:
 
 ```python
-> streamlit run pychain.py 
+> streamlit run fintech_finder.py 
 
 ```
 ___
@@ -102,10 +98,10 @@ ___
 Version control can be reviewed at:
 
 ```python
-https://github.com/Billie-LS/de_cent_fin_chain_my_block
+https://github.com/Billie-LS/find_yo_tech_pro_fin
 ```
 
-[repository](https://github.com/Billie-LS/de_cent_fin_chain_my_block)
+[repository](https://github.com/Billie-LS/find_yo_tech_pro_fin)
 
 
 ___
@@ -133,7 +129,6 @@ ___
 
 ### **Additional references and or resources utilized**
 
-[Open AI](https://openai.com/blog/chatgpt/)
 
 [st.success](https://docs.streamlit.io/library/api-reference/status/st.success)
 
