@@ -9,14 +9,17 @@ Objective - to simulate fintech engineer working at a a major global bank.
 Scenario - Fintech Finder’s lead developer, tasked with integrating the Ethereum blockchain network into an application to enable customers to pay fintech professionals whom they hire with cryptocurrency. 
 ![blockchain_pay](Images/blockchain_pay.png)
 
-Product - 
+### Product 
 
-
+Ganache account tab (index 0)
 ![ganache](Images/ganache_index.png)
-
+App page
 ![app](Images/fintech_finder.png)
+Billable hours selected = 7
 ![app](Images/billable.png)
+Transaction sent and confirmed valid
 ![app](Images/paid.png)
+Ganache index account subtracted, Fintech professional's account added
 ![app](Images/ganache_paid.png)
 ___
 
@@ -39,15 +42,6 @@ This project leverages Python version 3.9.13 packaged by conda-forge | (main, Ma
 
 * [streamlit](https://pypi.org/project/streamlit/) - an all python, free, open source module that enables rapid transformation of data scripts into shareable web apps.
 
-* [dataclasses](https://docs.python.org/3/library/dataclasses.html) - provides a decorator and functions for automatically adding generated special methods.
-
-* [typing](https://docs.python.org/3/library/typing.html) - provides runtime support for type hints.
-
-* [datetime](https://docs.python.org/3/library/datetime.html) - module supplies classes for manipulating dates and times.
-
-* [pandas](https://pandas.pydata.org/docs/) - software library written for the python programming language for data manipulation and analysis.
-
-* [hashlib](https://pypi.org/project/hashlib/) - Secure hash and message digest algorithm library.
 
 ___
 
