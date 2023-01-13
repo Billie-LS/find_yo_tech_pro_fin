@@ -21,6 +21,8 @@ Transaction sent and confirmed valid
 ![app](Images/paid.png)
 Ganache index account subtracted, Fintech professional's account added
 ![app](Images/ganache_paid.png)
+Fintech Finder application shows deduction
+![app](Images/deducted.png)
 ___
 
 ## **Technologies**
