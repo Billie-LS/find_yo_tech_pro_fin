@@ -40,12 +40,12 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 # Database of Fintech Finder candidates including their name, digital address, rating and hourly cost per Ether.
 # A single Ether is currently valued at 1348.67
 candidate_database = {
-    'billie': ['billie', '0x32E51734f9807480999aEd4FBea088760b8Af796', '5.0', 1.45, "Images/billie.png"],
+    'billie': ['billie', '0xE62F306eEe4A41173222e79D0a19C330F7C8722f', '5.0', 1.45, "Images/billie.png"],
     'Jo': ['Jo', '0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45', '4.7', .19, "Images/jo.jpeg"],
     'Lane': ['Lane', '0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0', '4.3', .20, "Images/lane.jpeg"],
     'Ash': ['Ash', '0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396', '4.2', .33, "Images/ash.jpeg"],
     'Kendall': ['Kendall', '0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45', '4.1', .16, "Images/kendall.jpeg"],
-    'William': ['William', '0x1E164BaAd34872B5a6B9dB41a030C658793Cd91e', '2.1', .11, "Images/william.jpeg"]
+    'William': ['William', '0x3E7A8bA4921D8D1Ac11B28453E58B4a8546d4bdC', '2.1', .11, "Images/william.jpeg"]
 }
 
 # A list of the FinTech Finder candidates first names

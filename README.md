@@ -12,10 +12,12 @@ Scenario - Fintech Finder’s lead developer, tasked with integrating the Ethere
 Product - 
 
 
-![ganache](Images/account_ind.png)
+![ganache](Images/ganache_index.png)
 
-![app](images/multipleblocks.png)
-![app](images/validchain.png)
+![app](Images/fintech_finder.png)
+![app](Images/billble.png)
+![app](Images/paid.png)
+![app](Images/ganache_paid.png)
 ___
 
 ## **Technologies**
@@ -131,10 +133,7 @@ ___
 
 ### **Additional references and or resources utilized**
 
-
 [st.success](https://docs.streamlit.io/library/api-reference/status/st.success)
-
-[st.warning](https://docs.streamlit.io/library/api-reference/status/st.warning)
 
 ___
 ## **License**
