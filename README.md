@@ -15,7 +15,7 @@ Product -
 ![ganache](Images/ganache_index.png)
 
 ![app](Images/fintech_finder.png)
-![app](Images/billble.png)
+![app](Images/billable.png)
 ![app](Images/paid.png)
 ![app](Images/ganache_paid.png)
 ___
