@@ -25,6 +25,11 @@
 
 ################################################################################
 # Imports
+import sys
+import os
+import platform
+from watermark import watermark
+
 # @TODO:
 # From `crypto_wallet.py import the functions generate_account, get_balance, send_transaction
 from crypto_wallet import generate_account, get_balance, send_transaction
@@ -34,6 +39,12 @@ from dataclasses import dataclass
 from typing import Any, List
 from web3 import Web3
 w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
+################################################################################
+# Report Technologies
+print(f'Python Platform: {platform.platform()}')
+print(f'Python {sys.version}')
+print(watermark())
+print(watermark(iversions=True, globals_=globals()))
 ################################################################################
 # Fintech Finder Candidate Information
 
