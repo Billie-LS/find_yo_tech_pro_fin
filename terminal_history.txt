@@ -1,0 +1,118 @@
+ 8703  git clone git@github.com:Billie-LS/find_yo_tech_pro_fin.git
+ 8704  code .
+ 8705  jupyter lab
+ 8706  git status
+ 8707  git add .
+ 8708  git commit -m 'initial repo construct'
+ 8709  git push
+ 8710  find . -name .env -print0 | xargs -0 git rm -f --ignore-unmatch
+ 8711  echo .env >> .gitignore
+ 8712  git add .gitignore
+ 8713  git commit -m '.env banished!'
+ 8714  git push
+ 8715  find . -name *.env -print0 | xargs -0 git rm -f --ignore-unmatch
+ 8716  echo *.env >> .gitignore
+ 8717  git commit -m '.env banished!'
+ 8718  git push
+ 8719  conda activate machine_slearn
+ 8720  code .
+ 8721  conda activate machine_slearn
+ 8722  pip install --upgrade protobuf
+ 8723  git status
+ 8724  git add .
+ 8725  git commit -m 'still broken'
+ 8726  git push
+ 8727  conda deactivate
+ 8728  git pull
+ 8729  conda activate machine_slearn
+ 8730  code .
+ 8731  conda activate machine_slearn
+ 8732  clear
+ 8733  pip install --upgrade protobuf
+ 8734  pip uninstall protobuf
+ 8735  conda install protobuf
+ 8736  ls
+ 8737  streamlit run fintech_finder.py
+ 8738  conda deactivate
+ 8739  git status
+ 8740  git add fintech_finder.py
+ 8741  git commit fintech_finder.py -m 'script initial run version, README incomplete'
+ 8742  git push
+ 8743  conda deactivate
+ 8744  conda activate machine_slearn
+ 8745  code .
+ 8746  streamlit run /Users/lokiskylizard/Desktop/find_yo_tech_pro_fin/fintech_finder.py
+ 8747  git status
+ 8748  git add fintech_finder.py
+ 8749  git commit fintech_finder.py -m 'code work in progress'
+ 8750  git add .
+ 8751  git commit -m 'rich content images'
+ 8752  git push
+ 8753  jupyter lab
+ 8754  code .
+ 8755  run /Users/lokiskylizard/Desktop/find_yo_tech_pro_fin/fintech_finder.py
+ 8756  streamlit run /Users/lokiskylizard/Desktop/find_yo_tech_pro_fin/fintech_finder.py
+ 8757  git status
+ 8758  git add README.md
+ 8759  git commit README.md -m 'readme buffing'
+ 8760  git add fintech_finder.py
+ 8761  git commit fintech_finder.py -m 'editing code'
+ 8762  git add .
+ 8763  git commit -m 'rich content'
+ 8764  git push
+ 8765  jupyter lab
+ 8766  git add .
+ 8767  git commit -m 'vid out'
+ 8768  git push
+ 8769  jupyter lab
+ 8770  git status
+ 8771  git add .
+ 8772  git commit -m 'continued'
+ 8773  git push
+ 8774  conda activate machine_slearn
+ 8775  jupyter lab
+ 8776  code .
+ 8777  streamlit run /Users/lokiskylizard/Desktop/find_yo_tech_pro_fin/fintech_finder.py
+ 8778  git status
+ 8779  git add fintech_finder.py
+ 8780  git commit fintech_finder.py -m 'tuning code'
+ 8781  git push
+ 8782  conda deactivate
+ 8783  git status
+ 8784  git add .
+ 8785  git commit -m 'readme correct caps'
+ 8786  git push
+ 8787  git status
+ 8788  git pull
+ 8789  conda activate machine_slearn
+ 8790  jupyter lab
+ 8791  code .
+ 8792  streamlit run /Users/lokiskylizard/Desktop/find_yo_tech_pro_fin/fintech_finder.py
+ 8793  git status
+ 8794  git add . 
+ 8795  git commit -m 'completed'
+ 8796  git push
+ 8797  code .
+ 8798  git status
+ 8799  git add README.md
+ 8800  git commit README.md -m 'READme images'
+ 8801  git push
+ 8802  jupyter lab
+ 8803  git status
+ 8804  git add README.md
+ 8805  git commit README.md -m 'README.mdedit and rich content'
+ 8806  git add fintech_finder.py
+ 8807  git commit fintech_finder.py -m 'finalize'
+ 8808  git push
+ 8809  code .
+ 8810  streamlit run /Users/lokiskylizard/Desktop/find_yo_tech_pro_fin/fintech_finder.py
+ 8811  git status
+ 8812  git add README.md
+ 8813  git commit README.md -m 'image'
+ 8814  git status
+ 8815  git add .
+ 8816  git commit -m 'final image'
+ 8817  git status
+ 8818  git push
+ 8819  jupyter lab
+ 8820  history 7627 > terminal_history.txt
